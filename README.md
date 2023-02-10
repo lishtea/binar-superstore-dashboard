@@ -7,5 +7,5 @@ The purpose of the analysis is to prepare visualization that can give explanatio
 
 ## Result
 Tools : SQL query using google BigQuery, Data visualizaton using Looker Studio (GDS). 
-Full dashboard can be accesed here 
+
 ![image](images/1.jpg)
