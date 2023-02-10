@@ -27,4 +27,8 @@ It is possible in the South, they have a lot of technology products on discount 
 
 - Customer Segmentation
 ![image](images/4.jpg)
-To have more insight on what people bought in our store, we put it under the customer segmentation. It is shown that most people registered under costumer segmentation with the most people registered are from Central. 
+To have more insight on what people bought in the store, we put it under the customer segmentation. It is shown that most people registered under costumer segmentation with the most people registered are from Central. 
+Here we can see that most consumer bought Office Supplies regardless they're registered under Corporate or Home Office. With technology being the least popular. It is possible since Office Supplies product is more as a consumable small items like binders, scissors, etc that most people needs on their everyday use. While, technology being the least popular, it is the most profitable product since they are more expensive. 
+
+We can also see how the most used shipping mode is standard class. It is possible to increase the use on the other ship mode through promotion or advertising. 
+
