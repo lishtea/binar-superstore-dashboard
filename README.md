@@ -8,4 +8,9 @@ The purpose of the analysis is to prepare visualization that can give explanatio
 ## Result
 Tools : SQL query using google BigQuery, Data visualizaton using Looker Studio (GDS). 
 
+- a
 ![image](images/1.jpg)
+- b
+![image](images/2.jpg)
+![image](images/3.jpg)
+![image](images/4.jpg)
